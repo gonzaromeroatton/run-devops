@@ -53,14 +53,6 @@ public static class ProductContext
                     ImageFile = "product-6.png",
                     Price = 240.00M,
                     Category = "Home Kitchen"
-                },
-                new Product()
-                {
-                    Name = "PLAYSTATION 8",
-                    Description = "LA CONSOLA QUE NUNCA VEREMOS, never ever....",
-                    ImageFile = "product-6.png",
-                    Price = 240.00M,
-                    Category = "Gaming.."
                 }
         };
     }
