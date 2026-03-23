@@ -60,7 +60,7 @@ public static class ProductContext
                     Description = "LA CONSOLA QUE NUNCA VEREMOS, never ever....",
                     ImageFile = "product-6.png",
                     Price = 240.00M,
-                    Category = "Gaming..."
+                    Category = "Gaming.."
                 }
         };
     }
