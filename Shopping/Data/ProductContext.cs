@@ -56,8 +56,8 @@ public static class ProductContext
                 },
                 new Product()
                 {
-                    Name = "PLAYSTATION 7",
-                    Description = "LA CONSOLA QUE NUNCA VEREMOS",
+                    Name = "PLAYSTATION 8",
+                    Description = "LA CONSOLA QUE NUNCA VEREMOS, never ever....",
                     ImageFile = "product-6.png",
                     Price = 240.00M,
                     Category = "Gaming"
