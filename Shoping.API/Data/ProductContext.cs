@@ -1,4 +1,4 @@
-﻿using Shopping.Models;
+﻿using Shopping.API.Models;
 
 namespace Shopping.Data;
 
