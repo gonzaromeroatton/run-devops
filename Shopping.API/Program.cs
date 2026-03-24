@@ -25,7 +25,3 @@ app.MapGet("/products", async (ProductContext productContext) =>
 });
 
 app.Run();
-
-// Asegúrate de que el paquete NuGet "Swashbuckle.AspNetCore" esté instalado en tu proyecto.
-// Puedes instalarlo ejecutando el siguiente comando en la consola del Administrador de paquetes:
-// Install-Package Swashbuckle.AspNetCore
